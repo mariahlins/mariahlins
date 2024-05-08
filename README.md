@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @mariahlins
-- 👀 I’m interested in Back-End and Data Science
 - 🌱 I’m currently learning C# and Python
 - 📫 How to reach me on instagram: @marhlins
 - ⚡ Im in college studying engineer computer
